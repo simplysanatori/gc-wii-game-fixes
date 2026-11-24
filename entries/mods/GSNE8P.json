@@ -1,0 +1,44 @@
+[
+ {
+  "id": "sonic-adventure-2-battle-16-9-widescreen",
+  "name": "16:9 Widescreen",
+  "title": "Sonic Adventure 2: Battle",
+  "game_ids": [
+   "GSNE8P"
+  ],
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GSNE8P.ini",
+  "updated": "2026-11-24",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "ar",
+  "code_name": "16:9 Widescreen",
+  "notes": "Dolphin's own Action Replay code, shipped in its game settings file.",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ]
+ },
+ {
+  "id": "sonic-adventure-2-battle-60hz-aspect-fix",
+  "name": "60Hz Aspect Ratio Fix",
+  "title": "Sonic Adventure 2: Battle",
+  "game_ids": [
+   "GSNE8P"
+  ],
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GSNE8P.ini",
+  "updated": "2026-11-24",
+  "kind": "builtin",
+  "category": "fix",
+  "code_type": "ar",
+  "code_name": "60Hz Aspect Ratio Fix",
+  "notes": "Dolphin's own Action Replay code, shipped in its game settings file."
+ }
+]

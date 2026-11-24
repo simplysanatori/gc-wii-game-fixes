@@ -1,0 +1,18 @@
+[
+ {
+  "id": "xenoblade-hd-bighead",
+  "name": "HD Texture Pack v8.52",
+  "title": "Xenoblade Chronicles",
+  "game_ids": [
+   "SX4E01"
+  ],
+  "author": "Bighead",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/showthread.php?tid=35298",
+  "updated": "2018-08-21",
+  "notes": "Version 8.52. Core textures are DDS, with Google Drive, MediaFire and MEGA mirrors. Needs Dolphin 5.0-6199 or newer. Archives are password protected; the password is on the thread.",
+  "source": {
+   "type": "link"
+  }
+ }
+]

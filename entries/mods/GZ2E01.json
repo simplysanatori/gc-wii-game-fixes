@@ -1,0 +1,26 @@
+[
+ {
+  "id": "tp-gc-widescreen-v2",
+  "name": "16:9 Widescreen v2",
+  "title": "The Legend of Zelda: Twilight Princess",
+  "game_ids": [
+   "GZ2E01"
+  ],
+  "author": "Ralf",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GZ2E01.ini",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Widescreen v2",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "notes": "Dolphin's built-in 16:9 code for the GameCube version. Its settings also force the 16:9 aspect ratio."
+ }
+]

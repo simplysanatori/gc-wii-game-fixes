@@ -1,0 +1,18 @@
+[
+ {
+  "id": "ttyd-hd-texture-pack",
+  "name": "HD Texture Pack v2.5",
+  "title": "Paper Mario: The Thousand-Year Door",
+  "game_ids": [
+   "G8ME01"
+  ],
+  "author": "Invader",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/Thread-paper-mario-ttyd-hd-texture-pack-v2-5-may-9th-2024",
+  "source": {
+   "type": "link"
+  },
+  "textures": "dds",
+  "notes": "Download from the thread: DDS pack recommended, PNG legacy pack also there. Size and archive type not stated."
+ }
+]

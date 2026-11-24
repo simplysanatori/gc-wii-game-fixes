@@ -1,0 +1,18 @@
+[
+ {
+  "id": "star-fox-hd-cyb3rtr0n",
+  "name": "HD Texture Pack (DDS)",
+  "title": "Star Fox Adventures",
+  "game_ids": [
+   "GSAE01"
+  ],
+  "author": "CYB3RTR0N",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/Thread-star-fox-adventures-hd-texture-pack",
+  "updated": "2026-11-24",
+  "notes": "DDS textures on MEGA. The thread mentions an optional beta pack. Credits Krystal Archive, StarFox.org and razius.",
+  "source": {
+   "type": "link"
+  }
+ }
+]

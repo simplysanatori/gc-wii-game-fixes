@@ -1,0 +1,46 @@
+[
+ {
+  "id": "fzero-gx-ax-mode",
+  "name": "AX Mode",
+  "title": "F-Zero GX",
+  "game_ids": [
+   "GFZE01"
+  ],
+  "author": "Ralf",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=F-Zero_GX",
+  "updated": "2026-11-24",
+  "notes": "Turns on AX mode, with the AX cups and tracks. Dolphin ships this code for GFZE01.",
+  "kind": "builtin",
+  "category": "gameplay",
+  "code_type": "gecko",
+  "code_name": "Activate AX Mode (Version 8)"
+ },
+ {
+  "id": "fzero-gx-safe-cursor-credits",
+  "name": "Emblem Editor and Credits Fix",
+  "title": "F-Zero GX",
+  "game_ids": [
+   "GFZE01"
+  ],
+  "author": "Dolphin wiki contributors",
+  "licence": "CC BY-SA (Dolphin wiki)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=F-Zero_GX",
+  "updated": "2026-11-24",
+  "notes": "Texture Cache Accuracy Safe fixes the Emblem Editor cursor. Store EFB copies to texture off fixes the sepia end credits on Master.",
+  "kind": "settings",
+  "category": "fix",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SafeTextureCacheColorSamples",
+    "value": "512"
+   },
+   {
+    "section": "Video_Hacks",
+    "key": "EFBToTextureEnable",
+    "value": "False"
+   }
+  ]
+ }
+]

@@ -1,0 +1,21 @@
+[
+ {
+  "id": "nsmbw-hd-textures",
+  "name": "HD Texture Pack v2.81",
+  "title": "New Super Mario Bros. Wii",
+  "game_ids": [
+   "SMNE01"
+  ],
+  "author": "Bighead",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/showthread.php?tid=36005",
+  "source": {
+   "type": "link"
+  },
+  "format": "7z",
+  "layout": "single",
+  "textures": "dds",
+  "notes": "DDS (uncompressed) main pack, v2.81, from the forum thread linked by the Dolphin wiki. A PNG 7z is also on the thread. File size not stated.",
+  "updated": "2023-09-19"
+ }
+]

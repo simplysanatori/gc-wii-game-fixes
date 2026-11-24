@@ -1,0 +1,63 @@
+[
+ {
+  "id": "mkwii-reloaded",
+  "name": "MKWii Reloaded HD",
+  "title": "Mario Kart Wii",
+  "game_ids": [
+   "RMCE01",
+   "RMCP01"
+  ],
+  "source": {
+   "type": "github_release",
+   "repo": "GhostlyDark/MKWii-Reloaded",
+   "tag": "latest",
+   "asset_pattern": "mkwii-reloaded-*-dds.7z"
+  },
+  "size": 409942972,
+  "format": "7z",
+  "layout": "single",
+  "textures": "dds",
+  "author": "GhostlyDark",
+  "author_url": "https://github.com/GhostlyDark",
+  "licence": "Not stated",
+  "homepage": "https://github.com/GhostlyDark/MKWii-Reloaded",
+  "updated": "2025-03-22",
+  "notes": "HD texture pack for Mario Kart Wii, DDS, v0.2.0 release. Credits the Matteoki and Rmed24 HD pack. The author names no region."
+ },
+ {
+  "id": "mkw-hd-remaster-moukrea",
+  "name": "Mario Kart Wii HD Remaster (Forum)",
+  "title": "Mario Kart Wii",
+  "game_ids": [
+   "RMCE01",
+   "RMCP01"
+  ],
+  "source": {
+   "type": "link"
+  },
+  "author": "Moukrea",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/Thread-mario-kart-wii-hd-remaster",
+  "updated": "2019-02-07",
+  "notes": "Dolphin forum thread; the download is a Google Drive archive. Format and size not stated. The post says the pack is no longer in progress."
+ },
+ {
+  "id": "mkw-hd-remaster-koolkreate",
+  "name": "Mario Kart Wii HD Remaster (GameBanana)",
+  "title": "Mario Kart Wii",
+  "game_ids": [
+   "RMCE01",
+   "RMCP01"
+  ],
+  "source": {
+   "type": "link"
+  },
+  "size": 425745337,
+  "format": "7z",
+  "author": "koolkreate",
+  "licence": "CC BY-NC-ND 4.0",
+  "homepage": "https://gamebanana.com/mods/49179",
+  "updated": "2020-09-20",
+  "notes": "Two 7z downloads on GameBanana (main file 426 MB). Contents not opened here. Non-commercial, no derivatives licence."
+ }
+]

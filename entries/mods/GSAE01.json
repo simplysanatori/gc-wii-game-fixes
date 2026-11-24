@@ -1,0 +1,45 @@
+[
+ {
+  "id": "star-fox-viwidth-fix",
+  "name": "viWidth 704 Aspect Ratio Fix",
+  "title": "Star Fox Adventures",
+  "game_ids": [
+   "GSAE01"
+  ],
+  "revisions": [
+   0,
+   1
+  ],
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Star_Fox_Adventures",
+  "updated": "2026-11-24",
+  "notes": "Shipped by Dolphin. Raises viWidth from 660 to 704. Dolphin ships different addresses for revision 0 and revision 1.",
+  "kind": "builtin",
+  "category": "fix",
+  "code_type": "ar",
+  "code_name": "viWidth 704 Aspect Ratio Fix"
+ },
+ {
+  "id": "star-fox-efb-texture-off",
+  "name": "EFB Copies to Texture Off",
+  "title": "Star Fox Adventures",
+  "game_ids": [
+   "GSAE01"
+  ],
+  "author": "Dolphin wiki contributors",
+  "licence": "CC BY-SA (Dolphin wiki)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Star_Fox_Adventures",
+  "updated": "2026-11-24",
+  "notes": "Needed for correct glow effects. Glow renders poorly with this option on, on every backend.",
+  "kind": "settings",
+  "category": "fix",
+  "settings": [
+   {
+    "section": "Video_Hacks",
+    "key": "EFBToTextureEnable",
+    "value": "False"
+   }
+  ]
+ }
+]

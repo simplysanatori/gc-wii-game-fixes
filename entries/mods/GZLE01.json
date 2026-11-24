@@ -1,0 +1,42 @@
+[
+ {
+  "id": "ww-gc-widescreen",
+  "name": "16:9 Widescreen",
+  "title": "The Legend of Zelda: The Wind Waker",
+  "game_ids": [
+   "GZLE01"
+  ],
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GZLE01.ini",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Widescreen",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "notes": "Dolphin's built-in 16:9 code for the GameCube version. Its settings also force the 16:9 aspect ratio."
+ },
+ {
+  "id": "ww-remove-distance-blur",
+  "name": "Remove Distance Blur",
+  "title": "The Legend of Zelda: The Wind Waker",
+  "game_ids": [
+   "GZLE01"
+  ],
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GZLE01.ini",
+  "kind": "builtin",
+  "category": "graphics",
+  "code_type": "ar",
+  "code_name": "Remove Distance Blur",
+  "notes": "Dolphin's built-in code that removes the distance blur effect."
+ }
+]

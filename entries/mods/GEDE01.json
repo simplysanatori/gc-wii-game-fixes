@@ -1,0 +1,19 @@
+[
+ {
+  "id": "eternal-darkness-fix-startup-hang",
+  "name": "Fix Startup Hang",
+  "title": "Eternal Darkness",
+  "game_ids": [
+   "GEDE01"
+  ],
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GEDE01.ini",
+  "updated": "2026-11-24",
+  "kind": "builtin",
+  "category": "fix",
+  "code_type": "onframe",
+  "code_name": "Fix startup hang",
+  "notes": "Dolphin's own patch, shipped in its game settings file. Fixes a hang at startup."
+ }
+]

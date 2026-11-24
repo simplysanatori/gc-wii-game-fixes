@@ -1,0 +1,19 @@
+[
+ {
+  "id": "mkw-force-30fps-pal",
+  "name": "Force 30 FPS",
+  "title": "Mario Kart Wii",
+  "game_ids": [
+   "RMCP01"
+  ],
+  "kind": "builtin",
+  "category": "framerate",
+  "code_type": "gecko",
+  "code_name": "Force 30 FPS",
+  "author": "Nick Reynolds",
+  "licence": "Creative Commons Attribution Share Alike (Dolphin wiki page licence line)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Mario_Kart_Wii",
+  "updated": "2026-11-24",
+  "notes": "Ships with Dolphin in this game's INI. Forces 30 FPS in all modes. Do not use with the 60 FPS in Multiplayer code."
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": "mp7-16-9-widescreen",
+  "name": "16:9 Widescreen",
+  "title": "Mario Party 7",
+  "game_ids": [
+   "GP7E01"
+  ],
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Widescreen",
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Mario_Party_7",
+  "updated": "2026-11",
+  "notes": "Dolphin's built-in 16:9 code for the USA disc. Also sets Force 16:9.",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ]
+ }
+]

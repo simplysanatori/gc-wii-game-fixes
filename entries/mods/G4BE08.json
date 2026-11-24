@@ -1,0 +1,109 @@
+[
+ {
+  "id": "re4-gc-no-letterbox-gameplay",
+  "name": "No Letterbox in gameplay",
+  "title": "Resident Evil 4",
+  "game_ids": [
+   "G4BE08"
+  ],
+  "author": "jrupinski",
+  "author_url": "https://github.com/jrupinski",
+  "licence": "Not stated",
+  "homepage": "https://github.com/jrupinski/RE4-gamecube-letterbox-patch",
+  "updated": "2026-11-22",
+  "kind": "codes",
+  "category": "graphics",
+  "code_type": "gecko",
+  "lines": [
+   "0611BB8C 00000014",
+   "28000030 41820050",
+   "5409EEFA 7D69E02E",
+   "5D6B0001 00000000",
+   "040FA860 70090000",
+   "04165E88 700B0000",
+   "041789A8 70090000",
+   "04178DC8 70090000",
+   "0417CADC 70090000",
+   "04182FD4 70090000",
+   "041EBB2C 00000000",
+   "06171B40 0000001C",
+   "80090170 81895020",
+   "558C8FFE 7C006378",
+   "3180FFFF 7D6C0110",
+   "88030002 00000000"
+  ],
+  "notes": "Removes the bars in gameplay only. Menus, inventory, cutscenes and movies keep them. Gecko code from the author's dolphin/G4BE08.ini; the same author also has xdelta patches."
+ },
+ {
+  "id": "re4-gc-no-letterbox-cutscenes",
+  "name": "No Letterbox in gameplay and cutscenes",
+  "title": "Resident Evil 4",
+  "game_ids": [
+   "G4BE08"
+  ],
+  "author": "jrupinski",
+  "author_url": "https://github.com/jrupinski",
+  "licence": "Not stated",
+  "homepage": "https://github.com/jrupinski/RE4-gamecube-letterbox-patch",
+  "updated": "2026-11-22",
+  "kind": "codes",
+  "category": "graphics",
+  "code_type": "gecko",
+  "lines": [
+   "0611BB8C 00000014",
+   "28000030 41820050",
+   "5409EEFA 7D69E02E",
+   "5D6B0001 00000000",
+   "040FA860 70090000",
+   "04165E88 700B0000",
+   "041789A8 70090000",
+   "04178DC8 70090000",
+   "0417CADC 70090000",
+   "04182FD4 70090000",
+   "041EBB2C 00000000",
+   "06171B40 0000004C",
+   "80090170 81895018",
+   "3140FFFF 7D6A0110",
+   "558CA7FE 7D6B6078",
+   "81895020 558C8FFE",
+   "7D6B6378 88030002",
+   "7C005800 4D820020",
+   "99630002 200B0002",
+   "3D20801F C009E830",
+   "98030000 D0030004",
+   "4E800020 00000000"
+  ],
+  "notes": "Removes the bars in gameplay and in-engine cutscenes. Menus, inventory and movies keep them. Gecko code from the author's dolphin/G4BE08.ini; the same author also has xdelta patches."
+ },
+ {
+  "id": "re4-gc-no-letterbox-all",
+  "name": "No Letterbox anywhere",
+  "title": "Resident Evil 4",
+  "game_ids": [
+   "G4BE08"
+  ],
+  "author": "jrupinski",
+  "author_url": "https://github.com/jrupinski",
+  "licence": "Not stated",
+  "homepage": "https://github.com/jrupinski/RE4-gamecube-letterbox-patch",
+  "updated": "2026-11-22",
+  "kind": "codes",
+  "category": "graphics",
+  "code_type": "gecko",
+  "lines": [
+   "0611BB8C 00000014",
+   "28000030 41820050",
+   "5409EEFA 7D69E02E",
+   "5D6B0001 00000000",
+   "040FA860 70090000",
+   "04165E88 700B0000",
+   "041789A8 70090000",
+   "04178DC8 70090000",
+   "0417CADC 70090000",
+   "04182FD4 70090000",
+   "041EBB2C 00000000",
+   "04171B4C 60000000"
+  ],
+  "notes": "Removes the bars everywhere, including menus and movies. Full 4:3 512x448 frame. Gecko code from the author's dolphin/G4BE08.ini; the same author also has xdelta patches."
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": "animal-crossing-gc-16-9-widescreen",
+  "name": "16:9 Widescreen",
+  "title": "Animal Crossing",
+  "game_ids": [
+   "GAFE01"
+  ],
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GAFE01.ini",
+  "updated": "2026-11-24",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Widescreen",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "notes": "Dolphin's own 16:9 code, shipped in its game settings file. Also sets Force 16:9, which the picture needs to be widened."
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "smg-no-gravity",
+  "name": "No Gravity Edition",
+  "title": "Super Mario Galaxy",
+  "game_ids": [
+   "RMGE01"
+  ],
+  "kind": "riivolution",
+  "source": {
+   "type": "link"
+  },
+  "category": "mod",
+  "author": "SPG64",
+  "licence": "CC BY-NC-ND 4.0",
+  "homepage": "https://gamebanana.com/mods/149765",
+  "updated": "2021-02-27",
+  "notes": "Removes every gravity area from the original game, so slopes no longer count as slopes. The download is a .rar on GameBanana; install steps not checked."
+ },
+ {
+  "id": "superstar-galaxy",
+  "name": "Superstar",
+  "title": "Super Mario Galaxy",
+  "game_ids": [
+   "RMGE01"
+  ],
+  "kind": "riivolution",
+  "source": {
+   "type": "link"
+  },
+  "category": "mod",
+  "author": "TheMagicCactus, KOBuS, LariVille, Master Luma",
+  "licence": "CC BY-NC-ND 4.0",
+  "homepage": "https://gamebanana.com/mods/555156",
+  "updated": "2024-11-12",
+  "notes": "Difficulty hack with twisted levels, new levels and 65 new stars. The GameBanana file links to another download; install steps not checked."
+ }
+]

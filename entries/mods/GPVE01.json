@@ -1,0 +1,42 @@
+[
+ {
+  "id": "pikmin2-169-widescreen",
+  "name": "16:9 Widescreen",
+  "title": "Pikmin 2",
+  "game_ids": [
+   "GPVE01"
+  ],
+  "author": "Dolphin built-in",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Pikmin_2",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Widescreen",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "notes": "Dolphin's built-in 16:9 code. Forces 16:9 so the picture is not stuck at 4:3."
+ },
+ {
+  "id": "pikmin2-60-fps",
+  "name": "60 FPS",
+  "title": "Pikmin 2",
+  "game_ids": [
+   "GPVE01"
+  ],
+  "author": "Dolphin built-in",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Pikmin_2",
+  "kind": "builtin",
+  "category": "framerate",
+  "code_type": "gecko",
+  "code_name": "60 FPS",
+  "notes": "Dolphin's built-in 60 FPS code. Cutscenes switch back to 30 FPS and return to 60 after."
+ }
+]

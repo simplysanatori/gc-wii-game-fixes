@@ -1,0 +1,17 @@
+[
+ {
+  "id": "pikmin2-4k-henriko",
+  "name": "4K Texture Pack",
+  "title": "Pikmin 2",
+  "game_ids": [
+   "GPVE01"
+  ],
+  "author": "Henriko Magnifico",
+  "licence": "Not stated",
+  "homepage": "https://henrikomagnifico.com/pikmin-2-4k-texture-pack",
+  "source": {
+   "type": "link"
+  },
+  "notes": "Standard and post-processing editions. Only NTSC textures are modified. Works with other mods that do not change the same textures."
+ }
+]

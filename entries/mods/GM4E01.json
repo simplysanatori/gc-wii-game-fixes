@@ -1,0 +1,46 @@
+[
+ {
+  "id": "mkdd-16-9-widescreen",
+  "name": "16:9 Widescreen",
+  "title": "Mario Kart: Double Dash!!",
+  "game_ids": [
+   "GM4E01",
+   "GM4P01"
+  ],
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Widescreen v2",
+  "author": "Ralf, Kester",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Mario_Kart:_Double_Dash!!",
+  "updated": "2026-11",
+  "notes": "Dolphin's built-in 16:9 code for the USA and European discs. Also sets Force 16:9.",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ]
+ },
+ {
+  "id": "mkdd-reduced-blur",
+  "name": "Reduced Nintendo Blur",
+  "title": "Mario Kart: Double Dash!!",
+  "game_ids": [
+   "GM4E01",
+   "GM4P01"
+  ],
+  "kind": "builtin",
+  "category": "graphics",
+  "code_type": "ar",
+  "code_name": "Reduced Nintendo Blur",
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Mario_Kart:_Double_Dash!!",
+  "updated": "2026-11",
+  "notes": "Dolphin's built-in Action Replay code that reduces the Nintendo blur effect. Listed in the GM4E01 and GM4P01 game INIs."
+ }
+]

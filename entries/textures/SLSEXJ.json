@@ -1,0 +1,50 @@
+[
+ {
+  "id": "last-story-uhd-lunarecho21",
+  "name": "UHD Texture Pack",
+  "title": "The Last Story",
+  "game_ids": [
+   "SLSEXJ"
+  ],
+  "author": "lunarEcho21",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/Thread-the-last-story-uhd-texture-pack",
+  "updated": "2026-11-24",
+  "notes": "UHD textures on MEGA in two parts (4.0 GB and 2.86 GB) plus a 4.6 MB patch. The author says to unzip, and does not name the format.",
+  "source": {
+   "type": "link"
+  }
+ },
+ {
+  "id": "last-story-hd-gui-matrix2525",
+  "name": "HD GUI+ Texture Pack",
+  "title": "The Last Story",
+  "game_ids": [
+   "SLSEXJ"
+  ],
+  "author": "Matrix2525",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/Thread-the-last-story-hd-gui-texture-pack",
+  "updated": "2026-11-24",
+  "notes": "Interface textures, as DDS (recommended by the author) or PNG, on MEGA. Version 1.0 from 2015. The author gives no further updates and asks for credit.",
+  "source": {
+   "type": "link"
+  }
+ },
+ {
+  "id": "last-story-hd-themriron2",
+  "name": "HD Texture Pack (Beta 2)",
+  "title": "The Last Story",
+  "game_ids": [
+   "SLSEXJ"
+  ],
+  "author": "themriron2",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/Thread-the-last-story-hd-texture-pack",
+  "updated": "2026-11-24",
+  "notes": "Beta 2 is DDS, from February 2020, on Google Drive. The wiki calls the pack abandoned. The first post's link is out of date.",
+  "source": {
+   "type": "link"
+  }
+ }
+]

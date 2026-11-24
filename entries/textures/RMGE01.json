@@ -1,0 +1,27 @@
+[
+ {
+  "id": "glxy-repaint",
+  "name": "GLXY Repaint",
+  "title": "Super Mario Galaxy",
+  "game_ids": [
+   "RMGE01"
+  ],
+  "source": {
+   "type": "github_release",
+   "repo": "KramerRepaints/GLXY",
+   "tag": "latest",
+   "asset_pattern": "Dolphin.Custom.Textures.zip"
+  },
+  "size": 878839015,
+  "format": "zip",
+  "layout": "single",
+  "textures": "png",
+  "downloads": 64,
+  "author": "KramerRepaints",
+  "author_url": "https://github.com/KramerRepaints",
+  "licence": "Not stated",
+  "homepage": "https://github.com/KramerRepaints/GLXY",
+  "updated": "2026-06-03",
+  "notes": "Full repaint with about 1800 textures, new dialogue and a new story. The File.Edits.zip download (audio and video) is not covered here."
+ }
+]

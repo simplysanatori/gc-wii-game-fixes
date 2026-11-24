@@ -1,0 +1,24 @@
+[
+ {
+  "id": "skyward-sword-linear-filtering",
+  "name": "Force Linear Texture Filtering",
+  "title": "The Legend of Zelda: Skyward Sword",
+  "game_ids": [
+   "SOUE01"
+  ],
+  "author": "Dolphin wiki contributors",
+  "licence": "CC BY-SA (Dolphin wiki)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Skyward_Sword",
+  "updated": "2026-11-24",
+  "notes": "Fixes banding when the internal resolution is above 1x.",
+  "kind": "settings",
+  "category": "fix",
+  "settings": [
+   {
+    "section": "Video_Enhancements",
+    "key": "ForceTextureFiltering",
+    "value": "2"
+   }
+  ]
+ }
+]

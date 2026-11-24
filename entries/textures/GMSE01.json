@@ -1,0 +1,27 @@
+[
+ {
+  "id": "sms-uhd-texture-pack",
+  "name": "UHD Texture Pack",
+  "title": "Super Mario Sunshine",
+  "game_ids": [
+   "GMSE01"
+  ],
+  "source": {
+   "type": "github_release",
+   "repo": "qashto/Super_Mario_Sunshine_UHD_Texture_Pack",
+   "tag": "latest",
+   "asset_pattern": "GMS.7z"
+  },
+  "size": 986431331,
+  "format": "7z",
+  "layout": "single",
+  "textures": "dds",
+  "downloads": 141676,
+  "author": "qashto and razius",
+  "author_url": "https://github.com/qashto",
+  "licence": "Not stated",
+  "homepage": "https://github.com/qashto/Super_Mario_Sunshine_UHD_Texture_Pack",
+  "updated": "2020-05-09",
+  "notes": "Upscales and retextures for the whole game. The README says to use the DDS BC7 version. Turn on Load Custom Textures in the Advanced graphics settings."
+ }
+]

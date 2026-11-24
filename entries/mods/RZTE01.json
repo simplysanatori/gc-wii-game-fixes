@@ -1,0 +1,29 @@
+[
+ {
+  "id": "wsr-force-linear-vertex-rounding",
+  "name": "Fix IR Banding and UI Edges",
+  "title": "Wii Sports Resort",
+  "game_ids": [
+   "RZTE01"
+  ],
+  "kind": "settings",
+  "category": "fix",
+  "settings": [
+   {
+    "section": "Video_Enhancements",
+    "key": "ForceTextureFiltering",
+    "value": "2"
+   },
+   {
+    "section": "Video_Hacks",
+    "key": "VertexRounding",
+    "value": "True"
+   }
+  ],
+  "author": "Dolphin wiki contributors",
+  "licence": "Creative Commons Attribution Share Alike (Dolphin wiki page licence line)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Wii_Sports_Resort",
+  "updated": "2026-11-24",
+  "notes": "Fixes banding and misaligned 2D UI above 1x internal resolution. Value 2 is Force Linear. The wiki gives no region or revision."
+ }
+]

@@ -1,0 +1,118 @@
+[
+ {
+  "id": "ttyd-169-normal-hud",
+  "name": "16:9 Normal HUD",
+  "title": "Paper Mario: The Thousand-Year Door",
+  "game_ids": [
+   "G8ME01"
+  ],
+  "author": "Dolphin built-in",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Paper_Mario:_The_Thousand-Year_Door",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Aspect Ratio Fix - Normal HUD",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "wideScreenHack",
+    "value": "False"
+   },
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "notes": "Pick one of the four 16:9 fixes. Keep Widescreen Hack off; the built-in hack clips the picture."
+ },
+ {
+  "id": "ttyd-169-centered-hud",
+  "name": "16:9 Centered HUD",
+  "title": "Paper Mario: The Thousand-Year Door",
+  "game_ids": [
+   "G8ME01"
+  ],
+  "author": "Dolphin built-in",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Paper_Mario:_The_Thousand-Year_Door",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Aspect Ratio Fix - Centered HUD",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "wideScreenHack",
+    "value": "False"
+   },
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "notes": "Pick one of the four 16:9 fixes. Keep Widescreen Hack off; the built-in hack clips the picture."
+ },
+ {
+  "id": "ttyd-169-stretched-hud",
+  "name": "16:9 Stretched HUD",
+  "title": "Paper Mario: The Thousand-Year Door",
+  "game_ids": [
+   "G8ME01"
+  ],
+  "author": "Dolphin built-in",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Paper_Mario:_The_Thousand-Year_Door",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Aspect Ratio Fix - Stretched HUD",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "wideScreenHack",
+    "value": "False"
+   },
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "notes": "Pick one of the four 16:9 fixes. Keep Widescreen Hack off. The wiki says it also speeds up Shhwonk Fortress."
+ },
+ {
+  "id": "ttyd-169-centered-letterbox",
+  "name": "16:9 Centered HUD, Letterboxed",
+  "title": "Paper Mario: The Thousand-Year Door",
+  "game_ids": [
+   "G8ME01"
+  ],
+  "author": "Dolphin built-in",
+  "licence": "Not stated",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Paper_Mario:_The_Thousand-Year_Door",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Aspect Ratio Fix - Centered HUD with letterboxing",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "wideScreenHack",
+    "value": "False"
+   },
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "notes": "Pick one of the four 16:9 fixes. Keep Widescreen Hack off. Leaves letterboxing; the wiki says it also speeds up Shhwonk Fortress."
+ }
+]

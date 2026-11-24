@@ -1,0 +1,24 @@
+[
+ {
+  "id": "prime-rain-fix",
+  "name": "Rain Corruption Fix",
+  "title": "Metroid Prime",
+  "game_ids": [
+   "GM8E01"
+  ],
+  "kind": "settings",
+  "category": "fix",
+  "settings": [
+   {
+    "section": "Video_Hacks",
+    "key": "EFBToTextureEnable",
+    "value": "False"
+   }
+  ],
+  "author": "Not stated",
+  "licence": "Creative Commons Attribution Share Alike (Dolphin wiki page)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Metroid_Prime_(GC)",
+  "updated": "2026-11",
+  "notes": "Fixes black-line corruption in rain. Turns off Store EFB Copies to Texture Only. The wiki gives no revision."
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": "kirby-air-ride-widescreen",
+  "name": "16:9 Widescreen",
+  "title": "Kirby Air Ride",
+  "game_ids": [
+   "GKYE01"
+  ],
+  "author": "Dolphin Emulator",
+  "licence": "Not stated",
+  "homepage": "https://raw.githubusercontent.com/dolphin-emu/dolphin/master/Data/Sys/GameSettings/GKYE01.ini",
+  "updated": "2026-11-24",
+  "notes": "Dolphin's built-in 16:9 code for GKYE01. Dolphin's file gives no disc revision. Needs Force 16:9 (set here too).",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Widescreen",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ]
+ }
+]

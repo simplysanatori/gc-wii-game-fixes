@@ -1,0 +1,21 @@
+[
+ {
+  "id": "dkcr-hd-textures",
+  "name": "HD Textures v1.4",
+  "title": "Donkey Kong Country Returns",
+  "game_ids": [
+   "SF8E01"
+  ],
+  "author": "CTCaer",
+  "licence": "Author allows reuse as a base for another pack with credit and a PM (forum post)",
+  "homepage": "https://forums.dolphin-emu.org/Thread-wii-fhd-donkey-kong-country-returns-hd-textures-mod-v1-4",
+  "source": {
+   "type": "link"
+  },
+  "format": "7z",
+  "layout": "single",
+  "textures": "png",
+  "notes": "All-regions HD pack, v1.4. PNG (lossless) 7z is the one listed here; a DXT5 DDS 7z is also on the thread. Needs a 7-Zip with LZMA2 support.",
+  "updated": "2017-02-17"
+ }
+]

@@ -1,0 +1,19 @@
+[
+ {
+  "id": "smg63-4k-texture-pack",
+  "name": "4K Texture Pack",
+  "title": "Super Mario Galaxy 2",
+  "game_ids": [
+   "SB4E01"
+  ],
+  "source": {
+   "type": "link"
+  },
+  "author": "iZePlayzYT",
+  "author_url": "https://github.com/iZePlayzYT",
+  "licence": "Not stated",
+  "homepage": "https://github.com/iZePlayzYT/SuperMarioGalaxy63-TexturePack",
+  "updated": "2026-05-04",
+  "notes": "4K textures made for Super Mario Galaxy 63; the README says they also work on the original game. Use the DDS folder in game. The PNG folder is for editing only."
+ }
+]

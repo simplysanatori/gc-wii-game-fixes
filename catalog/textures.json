@@ -1,0 +1,473 @@
+{
+ "schema": 1,
+ "packs": [
+  {
+   "id": "prime2-gravity-suit-beam-hd-interface",
+   "name": "Gravity Suit, Beams and HD Interface",
+   "title": "Metroid Prime 2: Echoes",
+   "game_ids": [
+    "G2ME01"
+   ],
+   "author": "MegaManZX2245",
+   "licence": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0",
+   "homepage": "https://gamebanana.com/mods/649522",
+   "updated": "2026-02",
+   "source": {
+    "type": "gamebanana",
+    "mod": 649522,
+    "file_pattern": "metroid_prime_2_echoes_gravity_suit_colors_mp1-mp3_beam_textures_metroid_prime_hd_interface_text.zip"
+   },
+   "size": 7122007,
+   "format": "zip",
+   "layout": "single",
+   "textures": "png",
+   "notes": "Gravity Suit colours, Metroid Prime 1 beam textures and HD interface textures for Prime 2. The zip holds one G2ME01 folder of PNGs."
+  },
+  {
+   "id": "ttyd-hd-texture-pack",
+   "name": "HD Texture Pack v2.5",
+   "title": "Paper Mario: The Thousand-Year Door",
+   "game_ids": [
+    "G8ME01"
+   ],
+   "author": "Invader",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/Thread-paper-mario-ttyd-hd-texture-pack-v2-5-may-9th-2024",
+   "source": {
+    "type": "link"
+   },
+   "textures": "dds",
+   "notes": "Download from the thread: DDS pack recommended, PNG legacy pack also there. Size and archive type not stated."
+  },
+  {
+   "id": "fzero-gx-hd-venomalia",
+   "name": "F-Zero GX HD (DDS-BC7)",
+   "title": "F-Zero GX",
+   "game_ids": [
+    "GFZE01"
+   ],
+   "author": "Venomalia",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/Thread-f-zero-gx-hd-05-01-2022",
+   "updated": "2026-11-24",
+   "notes": "DDS-BC7 textures. Download is on MEGA. The author says modified copies may be shared.",
+   "source": {
+    "type": "link"
+   },
+   "textures": "dds"
+  },
+  {
+   "id": "kirby-air-ride-uhd-textures",
+   "name": "UHD Textures (City Trial)",
+   "title": "Kirby Air Ride",
+   "game_ids": [
+    "GKYE01"
+   ],
+   "author": "quinton-ashley",
+   "author_url": "https://github.com/quinton-ashley",
+   "licence": "Not stated",
+   "homepage": "https://github.com/qashto/Kirby_Air_Ride_UHD_Texture_Pack",
+   "updated": "2017-04",
+   "notes": "Retextures for the City Trial city area, about 8x original size, per the README. Parts are credited to Dolphin Forum members there. Files are DDS.",
+   "source": {
+    "type": "github_release",
+    "repo": "qashto/Kirby_Air_Ride_UHD_Texture_Pack",
+    "tag": "v1.0.0",
+    "asset_pattern": "GKY.7z"
+   },
+   "format": "7z",
+   "layout": "single",
+   "textures": "dds",
+   "size": 27653889,
+   "sha256": "7c5f2782a34233182dba59d1d4ae7af13bc7bddf53e4e36976c37f129c6e4ea9"
+  },
+  {
+   "id": "luigis-hd-texture-pack",
+   "name": "HD Texture Pack (2020)",
+   "title": "Luigi's Mansion",
+   "game_ids": [
+    "GLME01"
+   ],
+   "author": "Your Pal Fox",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/Thread-luigi-s-mansion-hd-texture-pack",
+   "source": {
+    "type": "link"
+   },
+   "notes": "5x upscale with hand edits. Latest download in the thread is dated 11/8/20. Format and size not stated."
+  },
+  {
+   "id": "sms-uhd-texture-pack",
+   "name": "UHD Texture Pack",
+   "title": "Super Mario Sunshine",
+   "game_ids": [
+    "GMSE01"
+   ],
+   "source": {
+    "type": "github_release",
+    "repo": "qashto/Super_Mario_Sunshine_UHD_Texture_Pack",
+    "tag": "latest",
+    "asset_pattern": "GMS.7z"
+   },
+   "size": 986431331,
+   "format": "7z",
+   "layout": "single",
+   "textures": "dds",
+   "downloads": 141676,
+   "author": "qashto and razius",
+   "author_url": "https://github.com/qashto",
+   "licence": "Not stated",
+   "homepage": "https://github.com/qashto/Super_Mario_Sunshine_UHD_Texture_Pack",
+   "updated": "2020-05-09",
+   "notes": "Upscales and retextures for the whole game. The README says to use the DDS BC7 version. Turn on Load Custom Textures in the Advanced graphics settings."
+  },
+  {
+   "id": "mp7-hd-textures",
+   "name": "MP7 HD Textures",
+   "title": "Mario Party 7",
+   "game_ids": [
+    "GP7E01"
+   ],
+   "source": {
+    "type": "github_release",
+    "repo": "Najatski/mp7-hd",
+    "tag": "v0.3.0-beta",
+    "asset_pattern": "0.3.0-MP7HD.zip"
+   },
+   "size": 1081029675,
+   "format": "zip",
+   "layout": "single",
+   "textures": "png",
+   "author": "Najatski",
+   "author_url": "https://github.com/Najatski",
+   "licence": "Not stated",
+   "homepage": "https://github.com/Najatski/mp7-hd",
+   "updated": "2024-07",
+   "notes": "AI-upscaled 4x textures, partly done (the README lists Grand Canal and Pagoda Peak as finished). The author calls the project dormant. Put the GP7E folder in Dolphin's Load/Textures folder."
+  },
+  {
+   "id": "pikmin2-4k-henriko",
+   "name": "4K Texture Pack",
+   "title": "Pikmin 2",
+   "game_ids": [
+    "GPVE01"
+   ],
+   "author": "Henriko Magnifico",
+   "licence": "Not stated",
+   "homepage": "https://henrikomagnifico.com/pikmin-2-4k-texture-pack",
+   "source": {
+    "type": "link"
+   },
+   "notes": "Standard and post-processing editions. Only NTSC textures are modified. Works with other mods that do not change the same textures."
+  },
+  {
+   "id": "star-fox-hd-cyb3rtr0n",
+   "name": "HD Texture Pack (DDS)",
+   "title": "Star Fox Adventures",
+   "game_ids": [
+    "GSAE01"
+   ],
+   "author": "CYB3RTR0N",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/Thread-star-fox-adventures-hd-texture-pack",
+   "updated": "2026-11-24",
+   "notes": "DDS textures on MEGA. The thread mentions an optional beta pack. Credits Krystal Archive, StarFox.org and razius.",
+   "source": {
+    "type": "link"
+   }
+  },
+  {
+   "id": "tpde-plus-2-1",
+   "name": "Definitive Edition+ 2.1",
+   "title": "The Legend of Zelda: Twilight Princess",
+   "game_ids": [
+    "GZ2E01"
+   ],
+   "author": "Gossip Geist",
+   "author_url": "https://gamebanana.com/members/5489840",
+   "licence": "CC BY-NC-ND 4.0",
+   "homepage": "https://gamebanana.com/mods/714018",
+   "updated": "2026-09-20",
+   "notes": "HD DDS texture pack for the GameCube version. Four GameBanana parts: merge parts 2 to 4 into the main folder, then put it in the GZ2 texture folder.",
+   "parts": [
+    {
+     "type": "gamebanana",
+     "mod": 714018,
+     "file_pattern": "tpde_21_-_part_1_main.7z"
+    },
+    {
+     "type": "gamebanana",
+     "mod": 714018,
+     "file_pattern": "tpde_21_-_part_2.7z"
+    },
+    {
+     "type": "gamebanana",
+     "mod": 714018,
+     "file_pattern": "tpde_21_-_part_3.7z"
+    },
+    {
+     "type": "gamebanana",
+     "mod": 714018,
+     "file_pattern": "tpde_21_-_part_4.7z"
+    }
+   ],
+   "size": 5350469003,
+   "format": "7z",
+   "layout": "single",
+   "textures": "dds",
+   "downloads": 31872
+  },
+  {
+   "id": "tp-720p-dds",
+   "name": "720p DDS Pack",
+   "title": "The Legend of Zelda: Twilight Princess",
+   "game_ids": [
+    "GZ2E01",
+    "RZDE01"
+   ],
+   "author": "HenrikoMagnifico",
+   "author_url": "https://forums.dolphin-emu.org/User-henrikomagnifico",
+   "licence": "Not stated",
+   "homepage": "https://github.com/FHArchive/ZeldaTwilightPrincess720p",
+   "updated": "2020-10-18",
+   "notes": "Unofficial 720p DDS version of HenrikoMagnifico's texture pack, from the FHArchive release. Install as its README says; the folder has GZ2 and RZD marker files.",
+   "source": {
+    "type": "github_release",
+    "repo": "FHArchive/ZeldaTwilightPrincess720p",
+    "tag": "1.0.5_0",
+    "asset_pattern": "TwilightPrincess720p.7z"
+   },
+   "size": 342889473,
+   "format": "7z",
+   "layout": "single",
+   "textures": "dds"
+  },
+  {
+   "id": "prime3-gravity-suit-ped-hd-interface",
+   "name": "Gravity Suit, PED Suit and HD Interface",
+   "title": "Metroid Prime 3: Corruption",
+   "game_ids": [
+    "RM3E01"
+   ],
+   "author": "MegaManZX2245",
+   "licence": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0",
+   "homepage": "https://gamebanana.com/mods/659441",
+   "updated": "2026-03",
+   "source": {
+    "type": "gamebanana",
+    "mod": 659441,
+    "file_pattern": "metroid_prime_3_corruption_gravity_suit_colors_ped_suit_50_reverse_metroid_prime_trilogy_hd_inte.zip"
+   },
+   "size": 3769259,
+   "format": "zip",
+   "layout": "single",
+   "textures": "png",
+   "notes": "Gravity Suit colours, a reversed 50% PED Suit and HD interface textures for Prime 3. The zip holds one RM3E01 folder of PNGs."
+  },
+  {
+   "id": "mkwii-reloaded",
+   "name": "MKWii Reloaded HD",
+   "title": "Mario Kart Wii",
+   "game_ids": [
+    "RMCE01",
+    "RMCP01"
+   ],
+   "source": {
+    "type": "github_release",
+    "repo": "GhostlyDark/MKWii-Reloaded",
+    "tag": "latest",
+    "asset_pattern": "mkwii-reloaded-*-dds.7z"
+   },
+   "size": 409942972,
+   "format": "7z",
+   "layout": "single",
+   "textures": "dds",
+   "author": "GhostlyDark",
+   "author_url": "https://github.com/GhostlyDark",
+   "licence": "Not stated",
+   "homepage": "https://github.com/GhostlyDark/MKWii-Reloaded",
+   "updated": "2025-03-22",
+   "notes": "HD texture pack for Mario Kart Wii, DDS, v0.2.0 release. Credits the Matteoki and Rmed24 HD pack. The author names no region."
+  },
+  {
+   "id": "mkw-hd-remaster-moukrea",
+   "name": "Mario Kart Wii HD Remaster (Forum)",
+   "title": "Mario Kart Wii",
+   "game_ids": [
+    "RMCE01",
+    "RMCP01"
+   ],
+   "source": {
+    "type": "link"
+   },
+   "author": "Moukrea",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/Thread-mario-kart-wii-hd-remaster",
+   "updated": "2019-02-07",
+   "notes": "Dolphin forum thread; the download is a Google Drive archive. Format and size not stated. The post says the pack is no longer in progress."
+  },
+  {
+   "id": "mkw-hd-remaster-koolkreate",
+   "name": "Mario Kart Wii HD Remaster (GameBanana)",
+   "title": "Mario Kart Wii",
+   "game_ids": [
+    "RMCE01",
+    "RMCP01"
+   ],
+   "source": {
+    "type": "link"
+   },
+   "size": 425745337,
+   "format": "7z",
+   "author": "koolkreate",
+   "licence": "CC BY-NC-ND 4.0",
+   "homepage": "https://gamebanana.com/mods/49179",
+   "updated": "2020-09-20",
+   "notes": "Two 7z downloads on GameBanana (main file 426 MB). Contents not opened here. Non-commercial, no derivatives licence."
+  },
+  {
+   "id": "glxy-repaint",
+   "name": "GLXY Repaint",
+   "title": "Super Mario Galaxy",
+   "game_ids": [
+    "RMGE01"
+   ],
+   "source": {
+    "type": "github_release",
+    "repo": "KramerRepaints/GLXY",
+    "tag": "latest",
+    "asset_pattern": "Dolphin.Custom.Textures.zip"
+   },
+   "size": 878839015,
+   "format": "zip",
+   "layout": "single",
+   "textures": "png",
+   "downloads": 64,
+   "author": "KramerRepaints",
+   "author_url": "https://github.com/KramerRepaints",
+   "licence": "Not stated",
+   "homepage": "https://github.com/KramerRepaints/GLXY",
+   "updated": "2026-06-03",
+   "notes": "Full repaint with about 1800 textures, new dialogue and a new story. The File.Edits.zip download (audio and video) is not covered here."
+  },
+  {
+   "id": "smg63-4k-texture-pack",
+   "name": "4K Texture Pack",
+   "title": "Super Mario Galaxy 2",
+   "game_ids": [
+    "SB4E01"
+   ],
+   "source": {
+    "type": "link"
+   },
+   "author": "iZePlayzYT",
+   "author_url": "https://github.com/iZePlayzYT",
+   "licence": "Not stated",
+   "homepage": "https://github.com/iZePlayzYT/SuperMarioGalaxy63-TexturePack",
+   "updated": "2026-05-04",
+   "notes": "4K textures made for Super Mario Galaxy 63; the README says they also work on the original game. Use the DDS folder in game. The PNG folder is for editing only."
+  },
+  {
+   "id": "dkcr-hd-textures",
+   "name": "HD Textures v1.4",
+   "title": "Donkey Kong Country Returns",
+   "game_ids": [
+    "SF8E01"
+   ],
+   "author": "CTCaer",
+   "licence": "Author allows reuse as a base for another pack with credit and a PM (forum post)",
+   "homepage": "https://forums.dolphin-emu.org/Thread-wii-fhd-donkey-kong-country-returns-hd-textures-mod-v1-4",
+   "source": {
+    "type": "link"
+   },
+   "format": "7z",
+   "layout": "single",
+   "textures": "png",
+   "notes": "All-regions HD pack, v1.4. PNG (lossless) 7z is the one listed here; a DXT5 DDS 7z is also on the thread. Needs a 7-Zip with LZMA2 support.",
+   "updated": "2017-02-17"
+  },
+  {
+   "id": "last-story-uhd-lunarecho21",
+   "name": "UHD Texture Pack",
+   "title": "The Last Story",
+   "game_ids": [
+    "SLSEXJ"
+   ],
+   "author": "lunarEcho21",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/Thread-the-last-story-uhd-texture-pack",
+   "updated": "2026-11-24",
+   "notes": "UHD textures on MEGA in two parts (4.0 GB and 2.86 GB) plus a 4.6 MB patch. The author says to unzip, and does not name the format.",
+   "source": {
+    "type": "link"
+   }
+  },
+  {
+   "id": "last-story-hd-gui-matrix2525",
+   "name": "HD GUI+ Texture Pack",
+   "title": "The Last Story",
+   "game_ids": [
+    "SLSEXJ"
+   ],
+   "author": "Matrix2525",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/Thread-the-last-story-hd-gui-texture-pack",
+   "updated": "2026-11-24",
+   "notes": "Interface textures, as DDS (recommended by the author) or PNG, on MEGA. Version 1.0 from 2015. The author gives no further updates and asks for credit.",
+   "source": {
+    "type": "link"
+   }
+  },
+  {
+   "id": "last-story-hd-themriron2",
+   "name": "HD Texture Pack (Beta 2)",
+   "title": "The Last Story",
+   "game_ids": [
+    "SLSEXJ"
+   ],
+   "author": "themriron2",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/Thread-the-last-story-hd-texture-pack",
+   "updated": "2026-11-24",
+   "notes": "Beta 2 is DDS, from February 2020, on Google Drive. The wiki calls the pack abandoned. The first post's link is out of date.",
+   "source": {
+    "type": "link"
+   }
+  },
+  {
+   "id": "nsmbw-hd-textures",
+   "name": "HD Texture Pack v2.81",
+   "title": "New Super Mario Bros. Wii",
+   "game_ids": [
+    "SMNE01"
+   ],
+   "author": "Bighead",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/showthread.php?tid=36005",
+   "source": {
+    "type": "link"
+   },
+   "format": "7z",
+   "layout": "single",
+   "textures": "dds",
+   "notes": "DDS (uncompressed) main pack, v2.81, from the forum thread linked by the Dolphin wiki. A PNG 7z is also on the thread. File size not stated.",
+   "updated": "2023-09-19"
+  },
+  {
+   "id": "xenoblade-hd-bighead",
+   "name": "HD Texture Pack v8.52",
+   "title": "Xenoblade Chronicles",
+   "game_ids": [
+    "SX4E01"
+   ],
+   "author": "Bighead",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/showthread.php?tid=35298",
+   "updated": "2018-08-21",
+   "notes": "Version 8.52. Core textures are DDS, with Google Drive, MediaFire and MEGA mirrors. Needs Dolphin 5.0-6199 or newer. Archives are password protected; the password is on the thread.",
+   "source": {
+    "type": "link"
+   }
+  }
+ ]
+}

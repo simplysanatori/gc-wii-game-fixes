@@ -1,0 +1,19 @@
+[
+ {
+  "id": "fzero-gx-hd-venomalia",
+  "name": "F-Zero GX HD (DDS-BC7)",
+  "title": "F-Zero GX",
+  "game_ids": [
+   "GFZE01"
+  ],
+  "author": "Venomalia",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/Thread-f-zero-gx-hd-05-01-2022",
+  "updated": "2026-11-24",
+  "notes": "DDS-BC7 textures. Download is on MEGA. The author says modified copies may be shared.",
+  "source": {
+   "type": "link"
+  },
+  "textures": "dds"
+ }
+]

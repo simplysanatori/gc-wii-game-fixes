@@ -1,0 +1,17 @@
+[
+ {
+  "id": "luigis-hd-texture-pack",
+  "name": "HD Texture Pack (2020)",
+  "title": "Luigi's Mansion",
+  "game_ids": [
+   "GLME01"
+  ],
+  "author": "Your Pal Fox",
+  "licence": "Not stated",
+  "homepage": "https://forums.dolphin-emu.org/Thread-luigi-s-mansion-hd-texture-pack",
+  "source": {
+   "type": "link"
+  },
+  "notes": "5x upscale with hand edits. Latest download in the thread is dated 11/8/20. Format and size not stated."
+ }
+]

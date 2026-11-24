@@ -1,0 +1,59 @@
+[
+ {
+  "id": "melee-proper-16-9-widescreen",
+  "name": "Proper 16:9 Widescreen",
+  "title": "Super Smash Bros. Melee",
+  "game_ids": [
+   "GALE01"
+  ],
+  "revisions": [
+   0,
+   2
+  ],
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "Proper 16:9 Widescreen Support",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "author": "Dan Salvato, mirrorbender",
+  "licence": "Creative Commons Attribution Share Alike (Dolphin wiki)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Super_Smash_Bros._Melee",
+  "updated": "2026-11-24",
+  "notes": "Ships with Dolphin in the Gecko section of the rev 0 and rev 2 INIs. Force 16:9 is set with it. Use either this or Widescreen Support v1.2, not both."
+ },
+ {
+  "id": "melee-widescreen-support-v1-2",
+  "name": "Widescreen Support v1.2",
+  "title": "Super Smash Bros. Melee",
+  "game_ids": [
+   "GALE01"
+  ],
+  "revisions": [
+   2
+  ],
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "ar",
+  "code_name": "Widescreen Support v1.2",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "author": "Dan Salvato",
+  "licence": "Creative Commons Attribution Share Alike (Dolphin wiki)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Super_Smash_Bros._Melee",
+  "updated": "2026-11-24",
+  "notes": "Ships with Dolphin in the ActionReplay section of the rev 2 INI. Force 16:9 is set with it. Use either this or Proper 16:9 Widescreen, not both."
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "id": "last-story-immediate-xfb",
+  "name": "Immediately Present XFB",
+  "title": "The Last Story",
+  "game_ids": [
+   "SLSEXJ"
+  ],
+  "author": "Dolphin wiki contributors",
+  "licence": "CC BY-SA (Dolphin wiki)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=The_Last_Story",
+  "updated": "2026-11-24",
+  "notes": "Removes the green line across the bottom of the screen.",
+  "kind": "settings",
+  "category": "fix",
+  "settings": [
+   {
+    "section": "Video_Hacks",
+    "key": "CapImmediateXFB",
+    "value": "True"
+   }
+  ]
+ }
+]

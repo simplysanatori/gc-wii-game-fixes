@@ -1,0 +1,23 @@
+[
+ {
+  "id": "luigis-dual-core-off",
+  "name": "Dual Core Off",
+  "title": "Luigi's Mansion",
+  "game_ids": [
+   "GLME01"
+  ],
+  "author": "Dolphin wiki contributors",
+  "licence": "CC BY-SA 3.0 (wiki page licence)",
+  "homepage": "https://wiki.dolphin-emu.org/index.php?title=Luigi%27s_Mansion",
+  "kind": "settings",
+  "category": "fix",
+  "settings": [
+   {
+    "section": "Core",
+    "key": "CPUThread",
+    "value": "False"
+   }
+  ],
+  "notes": "Turn Dual Core off. Stops Luigi's model corrupting in the intro cutscene. The wiki lists it as the only non-default setting."
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": "kirby-air-ride-uhd-textures",
+  "name": "UHD Textures (City Trial)",
+  "title": "Kirby Air Ride",
+  "game_ids": [
+   "GKYE01"
+  ],
+  "author": "quinton-ashley",
+  "author_url": "https://github.com/quinton-ashley",
+  "licence": "Not stated",
+  "homepage": "https://github.com/qashto/Kirby_Air_Ride_UHD_Texture_Pack",
+  "updated": "2017-04",
+  "notes": "Retextures for the City Trial city area, about 8x original size, per the README. Parts are credited to Dolphin Forum members there. Files are DDS.",
+  "source": {
+   "type": "github_release",
+   "repo": "qashto/Kirby_Air_Ride_UHD_Texture_Pack",
+   "tag": "v1.0.0",
+   "asset_pattern": "GKY.7z"
+  },
+  "format": "7z",
+  "layout": "single",
+  "textures": "dds",
+  "size": 27653889,
+  "sha256": "7c5f2782a34233182dba59d1d4ae7af13bc7bddf53e4e36976c37f129c6e4ea9"
+ }
+]

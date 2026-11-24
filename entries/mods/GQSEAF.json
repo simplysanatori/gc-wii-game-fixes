@@ -1,0 +1,44 @@
+[
+ {
+  "id": "tales-of-symphonia-gc-16-9-widescreen",
+  "name": "16:9 Widescreen",
+  "title": "Tales of Symphonia",
+  "game_ids": [
+   "GQSEAF"
+  ],
+  "author": "gamemasterplc",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GQSEAF.ini",
+  "updated": "2026-11-24",
+  "kind": "builtin",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "code_type": "gecko",
+  "code_name": "16:9 Widescreen",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "notes": "Shipped in Dolphin's game settings file, credited to gamemasterplc there. Also sets Force 16:9, which the picture needs to be widened."
+ },
+ {
+  "id": "tales-of-symphonia-gc-remove-blur",
+  "name": "Remove Blur",
+  "title": "Tales of Symphonia",
+  "game_ids": [
+   "GQSEAF"
+  ],
+  "author": "Not stated",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GQSEAF.ini",
+  "updated": "2026-11-24",
+  "kind": "builtin",
+  "category": "graphics",
+  "code_type": "gecko",
+  "code_name": "Remove Blur",
+  "notes": "Dolphin's own code, shipped in its game settings file. Turns off the blur filter."
+ }
+]

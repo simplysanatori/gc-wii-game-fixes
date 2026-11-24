@@ -1,0 +1,60 @@
+[
+ {
+  "id": "sms-widescreen",
+  "name": "Widescreen",
+  "title": "Super Mario Sunshine",
+  "game_ids": [
+   "GMSE01"
+  ],
+  "kind": "builtin",
+  "code_type": "gecko",
+  "code_name": "Widescreen",
+  "category": "widescreen",
+  "aspect": "16:9",
+  "settings": [
+   {
+    "section": "Video_Settings",
+    "key": "SuggestedAspectRatio",
+    "value": "1"
+   }
+  ],
+  "author": "gamemasterplc",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GMSE01.ini",
+  "notes": "Dolphin's built-in 16:9 code for the USA release. Also sets Force 16:9 in the game settings."
+ },
+ {
+  "id": "sms-60fps",
+  "name": "60 FPS",
+  "title": "Super Mario Sunshine",
+  "game_ids": [
+   "GMSE01"
+  ],
+  "kind": "builtin",
+  "code_type": "gecko",
+  "code_name": "60FPS",
+  "category": "framerate",
+  "author": "gamemasterplc",
+  "licence": "Not stated",
+  "homepage": "https://github.com/dolphin-emu/dolphin/blob/master/Data/Sys/GameSettings/GMSE01.ini",
+  "notes": "Dolphin's built-in 60 FPS code for the USA release."
+ },
+ {
+  "id": "sms-superstar",
+  "name": "Superstar",
+  "title": "Super Mario Sunshine",
+  "game_ids": [
+   "GMSE01"
+  ],
+  "kind": "riivolution",
+  "source": {
+   "type": "link"
+  },
+  "category": "mod",
+  "author": "TheMagicCactus, Augs, Epicwade",
+  "licence": "CC BY-NC-ND 4.0",
+  "homepage": "https://gamebanana.com/mods/555255",
+  "updated": "2024-11-12",
+  "notes": "Difficulty hack that reworks the original levels and adds new content. The GameBanana file links to another download; install steps not checked."
+ }
+]

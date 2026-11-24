@@ -1,0 +1,24 @@
+[
+ {
+  "id": "prime3-gravity-suit-ped-hd-interface",
+  "name": "Gravity Suit, PED Suit and HD Interface",
+  "title": "Metroid Prime 3: Corruption",
+  "game_ids": [
+   "RM3E01"
+  ],
+  "author": "MegaManZX2245",
+  "licence": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0",
+  "homepage": "https://gamebanana.com/mods/659441",
+  "updated": "2026-03",
+  "source": {
+   "type": "gamebanana",
+   "mod": 659441,
+   "file_pattern": "metroid_prime_3_corruption_gravity_suit_colors_ped_suit_50_reverse_metroid_prime_trilogy_hd_inte.zip"
+  },
+  "size": 3769259,
+  "format": "zip",
+  "layout": "single",
+  "textures": "png",
+  "notes": "Gravity Suit colours, a reversed 50% PED Suit and HD interface textures for Prime 3. The zip holds one RM3E01 folder of PNGs."
+ }
+]

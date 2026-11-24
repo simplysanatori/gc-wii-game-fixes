@@ -1,0 +1,24 @@
+[
+ {
+  "id": "prime2-gravity-suit-beam-hd-interface",
+  "name": "Gravity Suit, Beams and HD Interface",
+  "title": "Metroid Prime 2: Echoes",
+  "game_ids": [
+   "G2ME01"
+  ],
+  "author": "MegaManZX2245",
+  "licence": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0",
+  "homepage": "https://gamebanana.com/mods/649522",
+  "updated": "2026-02",
+  "source": {
+   "type": "gamebanana",
+   "mod": 649522,
+   "file_pattern": "metroid_prime_2_echoes_gravity_suit_colors_mp1-mp3_beam_textures_metroid_prime_hd_interface_text.zip"
+  },
+  "size": 7122007,
+  "format": "zip",
+  "layout": "single",
+  "textures": "png",
+  "notes": "Gravity Suit colours, Metroid Prime 1 beam textures and HD interface textures for Prime 2. The zip holds one G2ME01 folder of PNGs."
+ }
+]

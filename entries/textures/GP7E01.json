@@ -1,0 +1,26 @@
+[
+ {
+  "id": "mp7-hd-textures",
+  "name": "MP7 HD Textures",
+  "title": "Mario Party 7",
+  "game_ids": [
+   "GP7E01"
+  ],
+  "source": {
+   "type": "github_release",
+   "repo": "Najatski/mp7-hd",
+   "tag": "v0.3.0-beta",
+   "asset_pattern": "0.3.0-MP7HD.zip"
+  },
+  "size": 1081029675,
+  "format": "zip",
+  "layout": "single",
+  "textures": "png",
+  "author": "Najatski",
+  "author_url": "https://github.com/Najatski",
+  "licence": "Not stated",
+  "homepage": "https://github.com/Najatski/mp7-hd",
+  "updated": "2024-07",
+  "notes": "AI-upscaled 4x textures, partly done (the README lists Grand Canal and Pagoda Peak as finished). The author calls the project dormant. Put the GP7E folder in Dolphin's Load/Textures folder."
+ }
+]

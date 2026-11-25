@@ -58,7 +58,7 @@
    "licence": "Not stated",
    "homepage": "https://forums.dolphin-emu.org/Thread-fire-emblem-path-of-radiance-hd-texture-pack",
    "updated": "2020-12",
-   "notes": "Upscaled textures for the US disc. The author advises 4:3, as backgrounds and portraits stretch at 16:9. Forum settings: 3x internal, 2x MSAA, no texture filtering."
+   "notes": "For 4:3 only: at 16:9 backgrounds and portraits stretch. Upscaled textures for the US disc. Author's settings: 3x internal, 2x MSAA, no texture filtering."
   },
   {
    "id": "fzero-gx-hd-venomalia",

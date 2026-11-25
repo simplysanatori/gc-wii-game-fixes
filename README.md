@@ -5,7 +5,7 @@ Widescreen patches, fixes, cheats, mods and texture packs for GameCube and Wii g
 ## What is here
 
 - 40 entries in [catalog/mods.json](catalog/mods.json): cheats, patches, game settings and 3 mods
-- 23 texture packs in [catalog/textures.json](catalog/textures.json)
+- 24 texture packs in [catalog/textures.json](catalog/textures.json)
 - Our own fixes, one folder per game under `games/` (none yet)
 
 Nothing is rehosted. Texture packs and mods are downloaded from where their authors keep them.

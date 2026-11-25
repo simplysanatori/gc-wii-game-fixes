@@ -40,6 +40,27 @@
    "notes": "Download from the thread: DDS pack recommended, PNG legacy pack also there. Size and archive type not stated."
   },
   {
+   "id": "path-of-radiance-hd-thorn",
+   "name": "HD Textures (Thorn)",
+   "title": "Fire Emblem: Path of Radiance",
+   "game_ids": [
+    "GFEE01"
+   ],
+   "source": {
+    "type": "gdrive",
+    "file_id": "1uclRYNWV4-bvI-4i5wOr3bSBJ3zFxohU"
+   },
+   "size": 1878929765,
+   "format": "rar",
+   "layout": "single",
+   "textures": "dds",
+   "author": "Thorn",
+   "licence": "Not stated",
+   "homepage": "https://forums.dolphin-emu.org/Thread-fire-emblem-path-of-radiance-hd-texture-pack",
+   "updated": "2020-12",
+   "notes": "Upscaled textures for the US disc. The author advises 4:3, as backgrounds and portraits stretch at 16:9. Forum settings: 3x internal, 2x MSAA, no texture filtering."
+  },
+  {
    "id": "fzero-gx-hd-venomalia",
    "name": "F-Zero GX HD (DDS-BC7)",
    "title": "F-Zero GX",
